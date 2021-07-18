@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 100px;
+}
+
+.alert-color1 {
+    color: #f1f1f1;
+    background-color: #1a6f48;
+    border-color: #000000;
+}
+.Positioned{
+    margin: 15px 0;
+}
+.btn-button1 {
+    margin: 10px;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
